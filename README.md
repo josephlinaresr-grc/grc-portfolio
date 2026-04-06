@@ -27,15 +27,18 @@ Each deliverable is designed to reflect the type of work a GRC Analyst produces 
 
 | # | Document | Description |
 |---|----------|-------------|
-| 1 | **GRC Control Mapping** | 37 controls across 9 domains mapped to NIST CSF 2.0, ISO 27001, NIS2 & DORA with implementation status and gap analysis |
-| 2 | **Risk Register** | Impact × Likelihood risk scoring with risk owners, treatment plans, and residual risk tracking |
-| 3 | **RACI Matrix** | Responsibility assignments for all GRC activities across CISO, Risk Manager, IT Ops, HR, Legal, and Facilities |
-| 4 | **Access Control Policy (POL-01)** | RBAC, MFA, privileged access, and access review policy aligned to NIST PR.AA and ISO A.8.2 |
-| 5 | **Data Protection Policy (POL-02)** | Encryption, classification, DLP, and backup requirements mapped to NIST PR.DS and ISO A.8.24 |
-| 6 | **Third-Party Risk Framework (TPRF)** | 4-tier vendor classification, due diligence lifecycle, and onboarding/offboarding procedures |
-| 7 | **Vendor Security Questionnaire (VSQ)** | Pre-onboarding security assessment questionnaire for third-party vendors |
-| 8 | **Incident Response Plan** | IRP with severity classification (P1–P4), escalation paths, and regulatory notification timelines |
-| 9 | **Executive Cyber Risk & Compliance Report** | Board-level summary of risk posture, control maturity, compliance status, and strategic recommendations |
+| 01 | **Control Mapping** | 37 controls across 9 domains mapped to NIST CSF 2.0, ISO 27001, NIS2 & DORA with implementation status and gap analysis |
+| 02 | **Risk Methodology** | Impact × Likelihood scoring framework, risk appetite definitions, and assessment procedures |
+| 03a | **Risk Register** | Risk scoring with risk owners, treatment plans, and residual risk tracking |
+| 03b | **Risk Register — RACI Ref** | Quick reference for risk ownership and accountability assignments |
+| 03c | **Risk Register — Dashboard** | Summary view of risk posture across domains |
+| 03d | **Risk Register — Vendor** | Vendor-specific risk tracking and assessment log |
+| 04 | **Governance RACI** | Responsibility assignments for all GRC activities across CISO, Risk Manager, IT Ops, HR, Legal, and Facilities |
+| 05 | **Core Policies** | Access Control Policy (POL-01) and Data Protection Policy (POL-02) |
+| 06 | **Third-Party Risk Framework** | 4-tier vendor classification, due diligence lifecycle, and onboarding/offboarding procedures |
+| 07 | **Vendor Security Questionnaire** | Pre-onboarding security assessment questionnaire for third-party vendors |
+| 08 | **Executive Cyber Risk Report** | Board-level summary of risk posture, control maturity, compliance status, and strategic recommendations |
+| 09 | **Incident Response Plan** | Severity classification (P1–P4), six-phase response lifecycle, regulatory notification timelines, and evidence preservation |
 
 ---
 
